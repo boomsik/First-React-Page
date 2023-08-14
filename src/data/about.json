@@ -4,7 +4,7 @@
     "number": "01",
     "title": "Personalize",
     "text": "Answer a quick survey about how you express yourself, what causes you stress, and what area would you like to work on. This way, we can fully personalize your journal!",
-    "image": "./First.jpg"
+    "image": "./public/First.jpg"
   },
   {
      "number": "02",

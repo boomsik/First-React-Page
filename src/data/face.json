@@ -4,5 +4,5 @@
   "descr": "Your custom contents.",
   "textOne": "Understand Your Stress",
   "textTwo": "Anger Management",
-  "image": "./avatar.png"
+  "image": "/public/avatar.png"
 } 
